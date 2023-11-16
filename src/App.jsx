@@ -26,7 +26,7 @@ function App() {
   const products = [
     {
       id: 1,
-      img_src: "../src/assets/w.png",
+      img_src: "../../vite/src/assets/w.png",
       name: "man hoodie",
       describtion: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi`,
       size: "s",
@@ -35,7 +35,7 @@ function App() {
     },
     {
       id: 2,
-      img_src: "../src/assets/d.png",
+      img_src: "../../vite/src/assets/d.png",
       name: "man jaecket",
       describtion: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi`,
       size: "m",
@@ -44,7 +44,7 @@ function App() {
     },
     {
       id: 3,
-      img_src: "../src/assets/w.png",
+      img_src: "../../vite/src/assets/w.png",
       name: "white hoodie",
       describtion: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Eumearum commodi`,
       size: "l",
